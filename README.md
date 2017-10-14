@@ -12,5 +12,7 @@ Run the executable
 > mode
 >
 > 0 : I/O
+
 > 1 : quantization
+
 > 2 : scaling fix with scaling factor 1.5
